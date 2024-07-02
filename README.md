@@ -7,3 +7,5 @@
 <p align="center">
     <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=abujafarch&theme=dark&border_radius=5&background=29163F" alt="GitHub Streak" />
 </p>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abujafarch&theme=dark&border_radius=5&card_width=250&background=1F1030&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
