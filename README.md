@@ -8,7 +8,7 @@
     <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=abujafarch&theme=dark&border_radius=5&background=29163F" alt="GitHub Streak" />
 </p>
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=abujafarch&theme=dark&border_radius=5&card_width=250&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abujafarch&theme=react&hide_border=true&border_radius=5&card_width=300&background=0D1117&border=0D1117&fire=FF1CF7&sideLabels=FF1CF7&currStreakNum=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
 
 <p align="center">
