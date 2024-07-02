@@ -9,7 +9,7 @@
 </p> -->
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abujafarch&theme=dark&border_radius=5&card_width=250&background=0D1117&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abujafarch&theme=dark&border_radius=5&card_width=250&background=1F1030&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </p>
 
  
