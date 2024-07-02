@@ -5,5 +5,5 @@
 
 ## :chart_with_upwards_trend: Current States
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=abujafarch&theme=dark&border_radius=5&card_width=250&background=1F1030&border=EB545400&stroke=EB545400&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" />
+    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=abujafarch&theme=dark&border_radius=5&card_width=250&background=1F1030&border=EB545400&stroke=EB545400&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" />
 </p>
