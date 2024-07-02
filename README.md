@@ -8,4 +8,9 @@
     <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=abujafarch&theme=dark&border_radius=5&background=29163F" alt="GitHub Streak" />
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abujafarch&theme=dark&border_radius=5&card_width=250&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=abujafarch&theme=dark&border_radius=5&card_width=250&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" />
+
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=abujafarch&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
