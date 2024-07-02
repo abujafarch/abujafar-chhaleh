@@ -1,3 +1,3 @@
 <img src="banner.png" >
 
-## :about: About Me 
+## :bust_in_silhouette: About Me 
